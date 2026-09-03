@@ -1,3 +1,5 @@
+build-c-ipfs
+
 #Ignore build files
 CMakeCache.txt
 CMakeFiles
